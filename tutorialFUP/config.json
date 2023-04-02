@@ -1,0 +1,7 @@
+{
+ "url-backend": "127.0.0.1",
+ "port": 9999,
+
+ "data-db-connection": "mongodb+srv://natalia:TDo6Ax93LuW6WbjN@cluster1.ejli9vc.mongodb.net/bd-registro-academico?retryWrites=true&w=majority",
+ "name-db": "bd-registro-academico"
+}
